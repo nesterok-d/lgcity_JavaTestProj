@@ -1,1 +1,0 @@
-# lgcity_JavaTestProj
